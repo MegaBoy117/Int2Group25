@@ -1,3 +1,5 @@
+#https://github.com/jamespengcheng/PyTorch-CNN-on-CIFAR10
+
 import torch.nn as nn
 import torch.nn.functional as F
 
